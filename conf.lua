@@ -5,6 +5,7 @@ function love.conf(t)
     t.window.vsync = true
     t.window.width = 800
     t.window.height = 600
+    t.window.title = "FastPong"
 
     Config = {}
     Config.player1 = {
