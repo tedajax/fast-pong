@@ -3,7 +3,7 @@ FastPong
 
 **Running**
 
-Easiest way to get this running is download LOVE2D 0.9.2
+Easiest way to get this running is download [LOVE2D 0.9.2](https://love2d.org/)
 
 clone the repo into a directory...
 
